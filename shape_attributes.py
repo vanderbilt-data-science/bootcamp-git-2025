@@ -1,4 +1,4 @@
-# DS 5380/5384 - Data Science Teamwork in Practice/Leading Data Science Teams
+# DSI Bootcamp 2025
 # Practicing GitHub Flow
 
 ## In this python file, you will calculate the area/surface area, diameter and circumference of a sphere and circle of radius of size r.
