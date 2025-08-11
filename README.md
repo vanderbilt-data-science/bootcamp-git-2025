@@ -5,9 +5,9 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name: **
+**Name:**
 
-**Hobbies: **
+**Hobbies:**
 
 ## Section 1: Your First Commit
 
@@ -43,4 +43,49 @@ This will result in a merge conflict! (Unless you waited for each person to make
 Let's go over how to fix this!!!
 
 
+## Section 3: GitHub Flow
 
+Now that we have seen the horrors of merge conflicts, let's better manage this with GitHub Flow. This exercise will use the `shape_attributes.py` file.
+
+**Goal:** The main task to be completed is to create a function compute_area in the `shape_attributes.py` file. The function computes and returns an area based on a radius r. For reference:
+
+The area of a circle is 
+π
+r
+2
+The area of a sphere is 
+4
+π
+r
+2
+
+### Merging via GitHub
+
+Now both team members complete the assigned tasks using the following steps:
+
+1. Create a new branch with an appropriate title git checkout -b <branch_name>
+2. Make changes to your code in the new branch and save them
+3. Add your changes to the staging area  `git add shape_attributes.py`
+4. Commit your changes from the command line using `git commit -m "your message here"`
+5. Push your changes to the remote branch using `git push -u origin <branch_name>` (fill in the actual name of your branch without the < > )
+6. Create a pull request and assign it to your partner
+
+Partner A reviews Partner B’s PR, merges, deletes branch, and closes the PR.
+
+Partner B reviews Partner A’s PR, and UH OH! Conflict!! Partner B fixes it on GitHub. Merge, delete branch, and close the PR.
+
+### Merging locally
+You'll be repeating the same exact steps above to the existing repo, except for 1) the changes to be made to the file, and 2) the resolution of the merge conflict. For 1, we'll be adding a new line below the function with a comment about what the function does. For 2, instead of merging via GitHub, we'll use the most recent version of main and merge this into the relevant branch. The steps are repeated below.
+
+Now both team members complete the assigned tasks using the following steps:
+
+1. Create a new branch with an appropriate title git checkout -b <branch_name>
+2. Make changes to your code in the new branch and save them
+3. Add your changes to the staging area  git add shape_attributes.r
+4. Commit your changes from the command line using git commit -m "your message here"
+5. Push your changes to the remote branch using git push -u origin <branch_name>
+6. Create a pull request and assign it to your partner.
+   
+Partner A reviews Partner B’s PR, merges, deletes branch, and closes the PR.
+
+Partner B reviews Partner A’s PR, and UH OH! Conflict!! Partner B fixes it locally (via VSCode, R, etc). Merge, delete branch, and close the PR.
