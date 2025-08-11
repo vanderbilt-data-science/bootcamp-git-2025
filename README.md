@@ -88,4 +88,4 @@ Now both team members complete the assigned tasks using the following steps:
    
 Partner A reviews Partner B’s PR, merges, deletes branch, and closes the PR.
 
-Partner B reviews Partner A’s PR, and UH OH! Conflict!! Partner B fixes it locally (via VSCode, R, etc). Merge, delete branch, and close the PR.
+Partner B reviews Partner A’s PR, and UH OH! Conflict!! Partner B fixes it locally (via terminal, VSCode, R, etc). Merge, delete branch, and close the PR.
