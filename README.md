@@ -5,8 +5,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** AAA kasumii,kasumi12345
-
+**Name:** AAA and Kasumi
 
 **Hobbies:** I recently play 
 
@@ -32,7 +31,7 @@ Partner A: use your repo
 Partner B: use Partner A's repo
 
 
-1. Partner A: add Partner B to your repo (under Settings)
+1. Partner A: add Partner`` B to your repo (under Settings)
 2. Partner B: clone Partner A's repo to your machine
 3. Each person: create your own branch to make the following edits
    - Partner B: Add your name and hobbies to the README (LINES 8 and 10) on your clone of Partner A's repo.
