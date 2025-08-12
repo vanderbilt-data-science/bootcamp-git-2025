@@ -5,9 +5,9 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** Nathan Grey
+**Name:** Grace Schmidt
 
-**Hobbies:**
+**Hobbies:** Hiking, running, and reading
 
 ## Section 1: Your First Commit
 
