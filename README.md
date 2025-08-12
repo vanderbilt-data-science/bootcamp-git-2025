@@ -5,10 +5,10 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** AAA kasumii
+**Name:** AAA kasumii,kasumi12345
 
 
-**Hobbies:**
+**Hobbies:** I recently play 
 
 ## Section 1: Your First Commit
 
