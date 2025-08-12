@@ -5,7 +5,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:**
+**Name:** AAA and QINXIA
 
 **Hobbies:**
 
@@ -31,7 +31,7 @@ Partner A: use your repo
 Partner B: use Partner A's repo
 
 
-1. Partner A: add Partner B to your repo (under Settings)
+1. Partner A: add Partner`` B to your repo (under Settings)
 2. Partner B: clone Partner A's repo to your machine
 3. (On GitHub)Create an issue for each partner (Partner A and Partner B) that asks them to add their name/hobbies to the README.
 4. (local) Each person: create your own branch to make the following edits
