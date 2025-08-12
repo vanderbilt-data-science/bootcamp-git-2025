@@ -1,17 +1,14 @@
 # DSI Bootcamp 2025 Git Workshop
 A repo for practicing your git skills as an incoming MS student at the DSI
-
 ## Introductions
-
 (see instructions)
-
-
 ![eepy](2.avif)
 
 **Name:**
-Ke Xu
-
+Ke Xu Ke Xu
 **Hobbies:**
+I like cooking and filming and graphic design and webdev
+
 
 
 
