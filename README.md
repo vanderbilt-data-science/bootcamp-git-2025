@@ -5,8 +5,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** Kevin S Amanna
-Rowan S Amanna
+**Name:** Kevin S Amanna Rowan S Amanna
 **Hobbies:**
 
 ## Section 1: Your First Commit
