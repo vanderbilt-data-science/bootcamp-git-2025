@@ -9,6 +9,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 Jackson Strong
 
 **Hobbies:**
+Audio Books, Bird watching, exercise, video games
 
 ## Section 1: Your First Commit
 
