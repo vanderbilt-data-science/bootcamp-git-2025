@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name: **Kalidindi Adithya**
 
-**Hobbies:i don't know**
+**Hobbies:i don't know i shall know in the future soon**
 
 ## Section 1: Your First Commit
 
