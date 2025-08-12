@@ -9,7 +9,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 ![eepy](2.avif)
 
 **Name:**
-Ke Xuuuu
+Ke Xu
 
 **Hobbies:**
 
