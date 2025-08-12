@@ -5,7 +5,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 (see instructions)
 
-**Name:** Qinxia 
+**Name:** Qinxia Wang
 
 **Hobbies:** Gaming what ever i just trying to test
 
