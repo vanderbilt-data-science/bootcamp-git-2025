@@ -7,7 +7,7 @@ A repo for practicing your git skills as an incoming MS student at the DSI
 
 **Name:** Qinxia 
 
-**Hobbies:** Gaming
+**Hobbies:** Gaming what ever i just trying to test
 
 ## Section 1: Your First Commit
 
